@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "verification-runtime"
+version = "0.1.0"
+description = "Headless objective verification with candidate and reference identities."
+requires-python = ">=3.11"
+license = {text = "MIT"}
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/alvarovillalbaa/verification-runtime"
+
+[project.scripts]
+verification-runtime = "verification_runtime.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

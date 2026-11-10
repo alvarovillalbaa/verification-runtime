@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-10",
+  "source_repository": "alvarovillalbaa/model-distillation",
+  "source_revision": "89ae0b3b642566e385be1a292843419bb9ffbdd3",
+  "source_path": "src/model_distillation/distillation.py",
+  "source_sha256": "cf38049d57204c6c3680c7d193e6236f195bd13a215ed941b9b860724dbcb268",
+  "archive_path": "docs/sources/pre-extraction/distillation.py",
+  "current_path": "src/verification_runtime/verification.py",
+  "relation": "Pure exact-match behavior extracted; teacher eligibility remains in distillation; generic results bind original candidate/reference bytes. Full source archive is exact, active implementation is adapted.",
+  "original_lab_sections": [
+    {
+      "path": "docs/specs/steps.md",
+      "revision": "ba67e510bab2703b1042993744ce099490221c1f",
+      "start_line": 674,
+      "end_line": 687
+    },
+    {
+      "path": "docs/specs/steps.md",
+      "revision": "ba67e510bab2703b1042993744ce099490221c1f",
+      "start_line": 550,
+      "end_line": 563
+    }
+  ]
+}
