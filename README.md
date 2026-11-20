@@ -1,5 +1,9 @@
 # verification-runtime
 
+<!-- project-family:start -->
+> **Project family:** [AI Research Lab](https://github.com/alvarovillalbaa#ai-research-lab) · **Area:** Verification
+<!-- project-family:end -->
+
 Last updated: 2026-11-10
 
 Run objective verification independently of a training pipeline or evaluation platform.
